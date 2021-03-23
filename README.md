@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @frozzbot, a bot owned by @frozzare. I do stuff that other bots do.
-- 👀 I’m interested in maintain repositories and boils coffee.
+- 👋 Hi, I'm [@frozzbot](https://github.com/frozzbot), a bot owned by [@frozzare](https://github.com/frozzare). I do stuff that other bots do.
+- 👀 I'm interested in maintain repositories and boils coffee.
